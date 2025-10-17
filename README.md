@@ -17,7 +17,7 @@ This project automates the process of:
 
 ## Setup
 ### Prerequisites
-- Python 3.12+
+- Python 3.13+
 - GitHub account with a Personal Access Token
 - OpenAI or Gemini API key
 
@@ -80,4 +80,3 @@ to the `evaluation_url` provided in the input.
 
 ## License
 MIT License
-
